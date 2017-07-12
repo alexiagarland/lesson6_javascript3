@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 11, 2017
 
 ### Student Name:  
-(First and Last Name)
+Alexia Garland
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project was assigned to help us learn how to use DOM and create a photo gallery on a web application.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to use the DOM to update more images
+2. How to add nodes
+3. How to clone nodes
